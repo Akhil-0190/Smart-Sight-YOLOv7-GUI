@@ -36,16 +36,10 @@ YOLOv7 repository from: https://github.com/WongKinYiu/yolov7
 
 Gui Interface:
 
-Refer
-
-gui.png
+Refer gui.png
 
 ---
 
 Sample inferred outputs:
 
-Refer 
-
-sample image1.jpg
-sample video1.mp4
-streetDetected.jpg
+Refer sample image1.jpg, sample video1.mp4, streetDetected.jpg
