@@ -1,1 +1,0 @@
-# VD-AI-Yolo-project
