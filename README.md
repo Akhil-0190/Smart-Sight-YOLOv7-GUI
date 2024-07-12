@@ -1,32 +1,32 @@
-Smart Sight: GUI for Computer Vision using YOLOv7
+<ins> **Smart Sight: GUI for Computer Vision using YOLOv7** </ins>
 
 Smart Sight is a Python-based GUI application designed to facilitate computer vision tasks using the YOLOv7 algorithm. This intuitive interface allows users to perform object detection on images and videos with ease, adjusting various parameters to optimize performance and view results in real-time.
 
 ---
 
-Features
+<ins> **Features** </ins>
 
-User-friendly Interface: Easily navigate through options to set weight and source paths, adjust image size, confidence level, and IOU threshold.
+**User-friendly Interface**: Easily navigate through options to set weight and source paths, adjust image size, confidence level, and IOU threshold.
 
-Real-time Detection: Perform object detection on images and videos and view results instantly.
+**Real-time Detection**: Perform object detection on images and videos and view results instantly.
 
-Parameter Adjustment: Customize detection parameters such as size, confidence level, and IOU threshold for optimized performance.
+**Parameter Adjustment**: Customize detection parameters such as size, confidence level, and IOU threshold for optimized performance.
 
-Output Display: View detailed output parameters and logs directly within the GUI.
+**Output Display**: View detailed output parameters and logs directly within the GUI.
 
-Result Visualization: Compare original and inferred images side by side for easy analysis.
+**Result Visualization**: Compare original and inferred images side by side for easy analysis.
 
 ---
 
-Technologies Used
+<ins> **Technologies Used**  </ins>
 
-Python: Core programming language.
+**Python**: Core programming language.
 
-YOLOv7: State-of-the-art object detection algorithm.
+**YOLOv7**: State-of-the-art object detection algorithm.
 
-Tkinter: Used for building the graphical user interface.
+**Tkinter**: Used for building the graphical user interface.
 
-OpenCV: For image and video processing.
+**OpenCV**: For image and video processing.
 
 ---
 
