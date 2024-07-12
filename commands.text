@@ -1,2 +1,5 @@
-python detect.py --weights yolov7-e6e.pt --source 0  (for webcam)
-python detect.py --weights yolov7-e6e.pt --source (file path here)  (both videos and images)
+python detect.py --weights 'weights' --source 'source'
+
+Examples:
+python detect.py --weights yolov7-e6e.pt --source 0  ->(for webcam)
+python detect.py --weights yolov7-e6e.pt --source 'file path here'  ->(for image or video files)
