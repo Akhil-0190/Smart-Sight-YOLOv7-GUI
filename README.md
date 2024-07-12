@@ -30,7 +30,7 @@ Smart Sight is a Python-based GUI application designed to facilitate computer vi
 
 ---
 
-YOLOv7 repository from: https://github.com/WongKinYiu/yolov7
+**YOLOv7 repository from:** https://github.com/WongKinYiu/yolov7
 
 ---
 
