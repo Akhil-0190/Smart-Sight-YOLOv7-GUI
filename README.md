@@ -47,4 +47,4 @@ Sample inferred outputs:
 ![Image2](https://github.com/Akhil-0190/Smart-Sight-YOLOv7-GUI/blob/main/streetDetected.jpg)
 
 
-[Download and Watch the Video](main/sample%20video1.mp4)
+[Download and Watch the Video](sample%20video1.mp4)
