@@ -1,4 +1,4 @@
-<ins> **Smart Sight: GUI for Computer Vision using YOLOv7** </ins>
+# **Smart Sight: GUI for Computer Vision using YOLOv7**
 
 Smart Sight is a Python-based GUI application designed to facilitate computer vision tasks using the YOLOv7 algorithm. This intuitive interface allows users to perform object detection on images and videos with ease, adjusting various parameters to optimize performance and view results in real-time.
 
