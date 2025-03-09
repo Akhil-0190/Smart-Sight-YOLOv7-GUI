@@ -42,4 +42,8 @@ Gui Interface:
 
 Sample inferred outputs:
 
-Refer sample image1.jpg, sample video1.mp4, streetDetected.jpg
+![Image1](https://github.com/Akhil-0190/Smart-Sight-YOLOv7-GUI/blob/main/sample%20image1.jpg)
+
+![Image2](https://github.com/Akhil-0190/Smart-Sight-YOLOv7-GUI/blob/main/streetDetected.jpg)
+
+![Video](https://github.com/Akhil-0190/Smart-Sight-YOLOv7-GUI/blob/main/sample%20video1.mp4)
